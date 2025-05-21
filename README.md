@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Jordan 👋
 
-<!--
-**JordanDonguy/JordanDonguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack web developer** currently studying for a Bachelor's degree in software development. I’m passionate about building clean, accessible, and efficient web applications — from intuitive frontends to solid backends.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack:**  
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express.js, PostgreSQL
+- **Tools:** Git, VSCode, Netlify, Render, Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s connect:**  
+- [Portfolio](https://jordandonguy.github.io/portfolio)
+- [Email](mailto:jordan.donguy@gmail.com)
+
+---
+
+💬 I'm always open to feedback, mentorship, and opportunities to collaborate — feel free to reach out or check out my pinned projects!
