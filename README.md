@@ -3,14 +3,23 @@
 I'm a **full-stack web developer** currently studying for a Bachelor's degree in software development.  
 I’m passionate about building clean, accessible, and efficient web applications — from intuitive frontends to solid backends.
 
-🛠 **Tech Stack:**  
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js, PostgreSQL
-- **Tools:** Git, VSCode, Netlify, Render, Supabase
+### 🛠 Tech Stack :  
 
-📫 **Let’s connect:**  
-- [Portfolio](https://jordandonguy.github.io/portfolio)
-- [Email](mailto:jordan.donguy@gmail.com)
+##### 🧩 Frontend :
+
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
+
+##### 🛠️ Backend :
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />  
+
+##### 🧰 Tools / DevOps :
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat" />
+
+### 📫 Let’s connect :  
+- 🔗 [Portfolio](https://jordandonguy.github.io/portfolio)
+- ✉️ [Email](mailto:jordan.donguy@gmail.com)
 
 ---
 
