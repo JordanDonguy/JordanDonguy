@@ -15,7 +15,7 @@ I’m passionate about building clean, accessible, and efficient web application
 
 ##### 🧰 Tools / DevOps :
 
-<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat" />&nbsp;  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat" />
 
 ### 📫 Let’s connect :  
 - 🔗 [Portfolio](https://jordandonguy.github.io/portfolio)
