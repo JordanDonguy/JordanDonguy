@@ -1,6 +1,7 @@
 # Hi there, I'm Jordan 👋
 
-I'm a **full-stack web developer** currently studying for a Bachelor's degree in software development. I’m passionate about building clean, accessible, and efficient web applications — from intuitive frontends to solid backends.
+I'm a **full-stack web developer** currently studying for a Bachelor's degree in software development.  
+I’m passionate about building clean, accessible, and efficient web applications — from intuitive frontends to solid backends.
 
 🛠 **Tech Stack:**  
 - **Frontend:** React, Tailwind CSS
