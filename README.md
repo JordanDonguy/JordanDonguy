@@ -7,7 +7,7 @@ I’m passionate about building clean, accessible, and efficient web application
 
 #### 🧩 Frontend :
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="28" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="28" />
 
 #### 🛠️ Backend :
 
@@ -15,7 +15,7 @@ I’m passionate about building clean, accessible, and efficient web application
 
 #### 🧰 Tools / DevOps :
 
-<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat" height="28"  />
+<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat" height="28"  />&nbsp;  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat" height="28"  />
 
 ### 📫 Let’s connect :  
 - 🔗 [Portfolio](https://jordandonguy.github.io/portfolio)
