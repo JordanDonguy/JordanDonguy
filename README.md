@@ -5,9 +5,12 @@ I’m passionate about building clean, accessible, and efficient web application
 
 ### 🛠 Tech Stack :  
 
+#### 💻 Languages :
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" height="28" />
+
 #### 🧩 Frontend :
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="28" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat" height="28" />&nbsp; <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" height="28" />&nbsp;  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" height="28" />
 
 #### 🛠️ Backend :
 
